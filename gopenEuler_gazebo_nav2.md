@@ -227,3 +227,5 @@ source ./install
 https://fishros.org/doc/nav2/concepts/index.html#
 
 https://docs.nav2.org/search.html?q=Model&check_keywords=yes&area=default
+
+https://github.com/IfReturn/PLCT/blob/main/gazebo_in_OpenEuler2403.md
