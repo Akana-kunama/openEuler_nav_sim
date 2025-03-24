@@ -25,7 +25,7 @@ gpgcheck=0
 
 Terminal 中输入指令： `gazebo`
 
-![screen_solved](../../Intel nuc gazebo test/pics/screen_solved.jpg)
+![screen_solved](./pics/screen_solved.jpg)
 
 > 若出现报错：
 >
